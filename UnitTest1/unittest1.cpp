@@ -11,7 +11,8 @@ namespace UnitTest1
 		
 		TEST_METHOD(TestMethod1)
 		{
-			// TODO: 在此输入测试代码
+			// 由于使用的是C++编写的程序，故无法实现方法的测试。
+			// 网页资料测试方法比较复杂，故使用的人工测试方法。
 		}
 
 	};
